@@ -1,7 +1,7 @@
 # MEGA: Multi-Encoder GNN Architecture for stronger task collaboration and generalization submitted to PKDD 2024
 
 
-This anonymized repository contains the code for the paper "MEGA: Multi-Encoder GNN Architecture for stronger task collaboration and generalization submitted to PKDD 2024". The code is based on the PyTorch Geometric library and is used to reproduce the results of the paper. The code is organized as follows:
+This repository contains the code for our work "MEGA: Multi-Encoder GNN Architecture for stronger task collaboration and generalization" accepted to PKDD 2024. The code is based on the PyTorch Geometric library and is used to produce the experiment results of the paper. The code is organized as follows:
 
 
 1. Install the required packages:
